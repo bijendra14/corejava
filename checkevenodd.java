@@ -4,6 +4,6 @@ int n=5;
 if (n%2==0)
 System.out.println("no is even");
 else
-system.out.println("no is odd");
+System.out.println("no is odd");
 }
 }
